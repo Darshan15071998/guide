@@ -40,5 +40,5 @@ Before creating a PR, please make sure to verify the following by marking the ch
 ---
 title: Article title goes here
 ---
-
+And at last a good quote comes here to end up this nice article
 -->
