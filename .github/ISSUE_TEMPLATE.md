@@ -4,7 +4,7 @@ Insert description of issue here
 
 <!-- Thank you for contributing to this freeCodeCamp repo, it is much appreciated! 😊 -->
 
-<!-- Before raising an issue, make sure to verify the following. -->
+<!-- Before raising an issue, you should make sure to verify the following. -->
 
 <!-- If none of the checkboxes are marked, it is less likely that your issue will be prioritized. -->
 
